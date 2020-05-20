@@ -1,0 +1,41 @@
+.navbar{
+
+    background-image: url("../img/background.jpg");
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+ul
+{
+    align-content: center;
+    background-repeat: no-repeat;
+    background-image: url("../img/anime.png"); 
+}
+
+.background-home
+{
+    background-image: url("../img/background3.jpg") ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.background-contact
+{
+    background-image: url("../img/tell.png") ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.background-about
+{
+    background-image: url("../img/about.jpg") ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.home-img
+{
+    margin-top: 15px;
+    padding: 14px 16px;
+    background-image: url("../img/esfera.png");
+    background-repeat: no-repeat;
+    background-size: 100%
+}
